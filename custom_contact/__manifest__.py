@@ -2,10 +2,10 @@
 {
     'name': "custom_contact",
 
-    'summary': "Short (1 phrase/line) summary of the module's purpose",
+    'summary': "Custom module made for the OCD Demonstration",
 
     'description': """
-Long description of module's purpose
+In this module a custom field is added in the contact form view
     """,
 
     'author': "Alay Shah",
