@@ -27,7 +27,7 @@ Long description of module's purpose
         'views/views.xml',
         'views/templates.xml',
     ],
-    'images': ['banner.jpg'],
+    'images': ['banner.png'],
     # only loaded in demonstration mode
     'demo': [
         'demo/demo.xml',
